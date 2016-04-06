@@ -1,5 +1,6 @@
 # Milestones
- 
+- - -
+
 1. Founded at 1976/04/01
 2. Apple I电脑（1976）
 3. Apple II（1977）

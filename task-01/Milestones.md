@@ -1,15 +1,15 @@
 # Milestones
 - - -
 
-1. Founded at 1976/04/01
+1. 公司成立（1976/04/01）
 2. Apple I电脑（1976）
 3. Apple II（1977）
-4. 上市
-5. 初代Macintosh（1984）
+4. 上市（1980/12/12）
+5. 初代Macintosh（1984/01/24）
 6. GUI图形用户界面
 7. Macintosh II（1987）
-8. 乔布斯回归
-9. iMac G3（1998）
+8. 乔布斯回归（1997/07/09）
+9. iMac G3（1998/08/15）
 10. 初代iPod和iTunes（2001）
 11. iPod nano（2005）
 12. 初代iPhone（2007）
